@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# TURBISH is taking a time out...
 
-You can use the [editor on GitHub](https://github.com/cfp2000/turbish.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*February 19, 2017*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm putting the turbish project on hold for a while.
 
-### Markdown
+For the past couple of months I have been rebuilding **TURBISH** with a 100% RESTful API backend and a React front-end. The backend is completed but the new GUI is not finished.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I recently started a new job and I feel that, for the moment, I don't have the time to keep building **TURBISH** and keeping the servers running for the time being. (It's been a 100% free service funded by me.) 
 
-```markdown
-Syntax highlighted code block
+Check back in a couple of months.. Or email me at *cfp-at-highball.se* if you have any questions.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cfp2000/turbish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+/Carl-Fredrik 
