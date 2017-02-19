@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+url: https://turbish.com   # with the https protocol
+enforce_ssl: turbish.com   # without any protocol
