@@ -8,6 +8,6 @@ For the past couple of months I have been rebuilding **TURBISH** with a 100% RES
 
 I recently started a new job and I feel that, for the moment, I don't have the time to keep building **TURBISH** and keeping the servers running for the time being. (It's been a 100% free service funded by me.) 
 
-Check back in a couple of months.. Or email me at *cfp-at-highball.se* if you have any questions.
+Check back in a couple of months.. Or email me at **cfp-at-highball.se** if you have any questions.
 
 /Carl-Fredrik 
